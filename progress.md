@@ -5,4 +5,4 @@
 ## 3.14 ~ 3.20
 
 - 确定选题，建立开发环境
-- 成功在x86_64虚拟机Debian 12.5系统上运行qemu x86_64架构的Starry + Dora，Dora功能尚未测试
+- 成功在x86_64虚拟机Debian 12.5系统上运行qemu x86_64和aarch64架构的Starry + Dora (`dora -h`)
